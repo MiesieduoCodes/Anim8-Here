@@ -5,7 +5,7 @@ import "./index.css";
 import App from "./App"; // Import your main site component
 import Pixar from './Components/Pixar';
 import About from "./Components/About";
-import DreamWorks from "./Components/DreamWorks";
+import DreamWorks from "./Components/DreamWorks.jsx";
 import Disney from "./Components/Disney";
 import Netflix from "./Components/Netflix";
 import Marvel from "./Components/Marvel";
